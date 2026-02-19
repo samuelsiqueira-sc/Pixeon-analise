@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E891C7E8-6211-44A9-ACF6-5E3670DB9700}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Smart.ExtendedPSA.WebResources</RootNamespace>
+    <AssemblyName>Smart.ExtendedPSA.WebResources</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisIgnoreGeneratedCode>true</CodeAnalysisIgnoreGeneratedCode>
+    <CodeAnalysisRuleSet>WebResources.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>WebResources.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resx\messages.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>messages.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Css\" />
+    <Folder Include="Xml\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Html\smt_html_margem_projeto.html" />
+    <Content Include="Html\smt_html_powerbi_cronogramaprojetos.html" />
+    <Content Include="Html\smt_html_powerbi_cronogramatarefas.html" />
+    <Content Include="Javascripts\smt_js_bookableresource.js" />
+    <Content Include="Javascripts\EntidadeJS.js" />
+    <Content Include="Javascripts\smt_js_smarthelper.js" />
+    <Content Include="Javascripts\smt_alerta_vencimento_produto_smart.js" />
+    <Content Include="Javascripts\smt_calculate_rollup_.js" />
+    <Content Include="Javascripts\smt_js_call_JustForm.js" />
+    <Content Include="Javascripts\smt_js_cancelprojecttask.js" />
+    <Content Include="Javascripts\smt_js_holiday_request - Cópia .js" />
+    <Content Include="Javascripts\smt_js_change_functions.js" />
+    <Content Include="Javascripts\smt_js_change_request.js" />
+    <Content Include="Javascripts\smt_js_extendedhelp.js" />
+    <Content Include="Javascripts\smt_js_hideShowAprovalSection.js" />
+    <Content Include="Javascripts\smt_js_holidayrequestcreat.js" />
+    <Content Include="Javascripts\smt_js_holiday_request.js" />
+    <Content Include="Javascripts\smt_js_invoice_onchangefields.js" />
+    <Content Include="Javascripts\smt_js_jquery.js" />
+    <Content Include="Javascripts\smt_js_json.js" />
+    <Content Include="Javascripts\smt_js_project.js" />
+    <Content Include="Javascripts\smt_js_projectGridIcon.js" />
+    <Content Include="Javascripts\smt_js_project_alert.js" />
+    <Content Include="Javascripts\smt_js_quote.js" />
+    <Content Include="Javascripts\smt_js_quotedetail.js" />
+    <Content Include="Javascripts\smt_js_kpirecalculate.js" />
+    <Content Include="Javascripts\smt_js_salesorder.js" />
+    <Content Include="Javascripts\smt_js_salesOrderUnlink.js" />
+    <Content Include="Javascripts\smt_js_timebank_settings.js" />
+    <Content Include="Javascripts\smt_js_time_entry.js" />
+    <Content Include="Javascripts\smt_js_purchasing_period.js" />
+    <Content Include="Javascripts\smt_js_resource_departure.js" />
+    <Content Include="Javascripts\smt_script_CallAction_CreateBaseLine.js" />
+    <Content Include="Javascripts\smt_script_createChangeRequest.js" />
+    <Content Include="Javascripts\smt_Script_TriggerPluginChangeRequest.js" />
+    <Content Include="Javascripts\smt_js_StatusChange.js" />
+    <Content Include="Javascripts\smt_verificadorCampo.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resx\messages.es.resx" />
+    <EmbeddedResource Include="Resx\messages.pt-BR.resx" />
+    <EmbeddedResource Include="Resx\messages.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>messages.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="WebResources.ruleset" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

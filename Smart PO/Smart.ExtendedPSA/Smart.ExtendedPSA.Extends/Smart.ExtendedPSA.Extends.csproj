@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\..\packages\EntityFramework.6.4.0\build\EntityFramework.props" Condition="Exists('..\..\packages\EntityFramework.6.4.0\build\EntityFramework.props')" />
+  <Import Project="$(SolutionDir)\packages\MSBuild.ILMerge.Task.1.0.5\build\MSBuild.ILMerge.Task.props" Condition="Exists('..\packages\MSBuild.ILMerge.Task.1.0.5\build\MSBuild.ILMerge.Task.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{54ABD30B-A4E4-4E73-9AEA-1717B58331FB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Smart.ExtendedPSA.Extends</RootNamespace>
+    <AssemblyName>Smart.ExtendedPSA.Extends</AssemblyName>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\Extends.xml</DocumentationFile>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
+    <CodeAnalysisRuleSet>Extends.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisIgnoreGeneratedCode>true</CodeAnalysisIgnoreGeneratedCode>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>Extends.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>SmartKey.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Business\ActionGerarAditivoBusiness.cs" />
+    <Compile Include="Business\BaseBusiness.cs" />
+    <Compile Include="Business\BusinessHolidayRequest.cs" />
+    <Compile Include="Business\ConfirmDialogBusiness.cs" />
+    <Compile Include="Business\LinhadaOrdemBusiness.cs" />
+    <Compile Include="Business\msdyn_projecttaskBusiness.cs" />
+    <Compile Include="Business\msdyn_resourceassignmentBusiness.cs" />
+    <Compile Include="Business\msdyn_timeentryBusiness.cs" />
+    <Compile Include="Business\OperationSetBO.cs" />
+    <Compile Include="Business\projectBusiness.cs" />
+    <Compile Include="Business\ResourceDepartureBusiness.cs" />
+    <Compile Include="Business\SmartParameterBusiness.cs" />
+    <Compile Include="Business\smt_changefunctionsBusiness.cs" />
+    <Compile Include="Business\smt_latest_project_worked_Business.cs" />
+    <Compile Include="Business\smt_monthly_revenue_recognitionBusiness.cs" />
+    <Compile Include="Business\smt_type_hourBusiness.cs" />
+    <Compile Include="Business\TimeBankOperations.cs" />
+    <Compile Include="CustomActions\AC_CalculateRollup.cs" />
+    <Compile Include="CustomActions\msdyn_project\AC_CreateBaseLine.cs" />
+    <Compile Include="CustomActions\Quote\ActionGerarAditivo.cs" />
+    <Compile Include="Earlybound\AttributeMap.cs" />
+    <Compile Include="Earlybound\BookableResource.cs" />
+    <Compile Include="Earlybound\BookableResourceBooking.cs" />
+    <Compile Include="Earlybound\BookableResourceCategory.cs" />
+    <Compile Include="Earlybound\BookableResourceCategoryAssn.cs" />
+    <Compile Include="Earlybound\CrmServiceContext.cs" />
+    <Compile Include="Earlybound\Imagedescriptor.cs" />
+    <Compile Include="Earlybound\LanguageLocale.cs" />
+    <Compile Include="Earlybound\msdyn_contractlineinvoiceschedule.cs" />
+    <Compile Include="Earlybound\msdyn_contractlinescheduleofvalue.cs" />
+    <Compile Include="Earlybound\msdyn_expense.cs" />
+    <Compile Include="Earlybound\msdyn_operationset.cs" />
+    <Compile Include="Earlybound\msdyn_orderlinetransaction.cs" />
+    <Compile Include="Earlybound\msdyn_organizationalunit.cs" />
+    <Compile Include="Earlybound\msdyn_project.cs" />
+    <Compile Include="Earlybound\msdyn_projectapproval.cs" />
+    <Compile Include="Earlybound\msdyn_projectapproval_OptionSets.cs" />
+    <Compile Include="Earlybound\msdyn_projecttask.cs" />
+    <Compile Include="Earlybound\msdyn_projecttaskdependency_StatusCode.cs" />
+    <Compile Include="Earlybound\msdyn_projecttaskstatusindicators.cs" />
+    <Compile Include="Earlybound\msdyn_projecttaskstatususer_StatusCode.cs" />
+    <Compile Include="Earlybound\msdyn_projecttask_msdyn_AggregationDirection.cs" />
+    <Compile Include="Earlybound\msdyn_projecttask_smt_pl_task_status.cs" />
+    <Compile Include="Earlybound\msdyn_projecttask_smt_statusprojeto.cs" />
+    <Compile Include="Earlybound\msdyn_projecttask_StatusCode.cs" />
+    <Compile Include="Earlybound\msdyn_projectteam.cs" />
+    <Compile Include="Earlybound\msdyn_project_smt_tipodeprojeto.cs" />
+    <Compile Include="Earlybound\msdyn_project_statuscode.cs" />
+    <Compile Include="Earlybound\msdyn_quotelineinvoiceschedule.cs" />
+    <Compile Include="Earlybound\msdyn_quotelinescheduleofvalue.cs" />
+    <Compile Include="Earlybound\msdyn_quotelinetransaction.cs" />
+    <Compile Include="Earlybound\msdyn_resourceassignment.cs" />
+    <Compile Include="Earlybound\msdyn_timeentry.cs" />
+    <Compile Include="Earlybound\msdyn_timeentrystatus.cs" />
+    <Compile Include="Earlybound\msdyn_timeentrytype.cs" />
+    <Compile Include="Earlybound\msdyn_timeentry_msdyn_relatedItemType.cs" />
+    <Compile Include="Earlybound\msdyn_timeentry_smt_tipohoraextra.cs" />
+    <Compile Include="Earlybound\msdyn_timeentry_StatusCode.cs" />
+    <Compile Include="Earlybound\msdyn_workhourtemplate.cs" />
+    <Compile Include="Earlybound\Organization.cs" />
+    <Compile Include="Earlybound\Quote.cs" />
+    <Compile Include="Earlybound\QuoteDetail.cs" />
+    <Compile Include="Earlybound\Resource.cs" />
+    <Compile Include="Earlybound\Role.cs" />
+    <Compile Include="Earlybound\SalesOrder.cs" />
+    <Compile Include="Earlybound\SalesOrderDetail.cs" />
+    <Compile Include="Earlybound\smt_academicdegree.cs" />
+    <Compile Include="Earlybound\smt_academic_information.cs" />
+    <Compile Include="Earlybound\smt_baseline.cs" />
+    <Compile Include="Earlybound\smt_button_dialog.cs" />
+    <Compile Include="Earlybound\smt_button_dialog_smt_pl_confirmation_type.cs" />
+    <Compile Include="Earlybound\smt_button_dialog_StatusCode.cs" />
+    <Compile Include="Earlybound\smt_cancel_holiday_request.cs" />
+    <Compile Include="Earlybound\smt_cancel_holiday_request_smt_pl_confirmation_tyoe.cs" />
+    <Compile Include="Earlybound\smt_cancel_holiday_request_StatusCode.cs" />
+    <Compile Include="Earlybound\smt_change_functions.cs" />
+    <Compile Include="Earlybound\smt_courses.cs" />
+    <Compile Include="Earlybound\smt_departure_type.cs" />
+    <Compile Include="Earlybound\smt_extracurricularactivities.cs" />
+    <Compile Include="Earlybound\smt_holiday.cs" />
+    <Compile Include="Earlybound\smt_holiday_request.cs" />
+    <Compile Include="Earlybound\smt_holiday_request_smt_smt_pl_type.cs" />
+    <Compile Include="Earlybound\smt_holiday_request_StatusCode.cs" />
+    <Compile Include="Earlybound\smt_languageresource.cs" />
+    <Compile Include="Earlybound\smt_languages.cs" />
+    <Compile Include="Earlybound\smt_latest_project_worked.cs" />
+    <Compile Include="Earlybound\smt_log.cs" />
+    <Compile Include="Earlybound\smt_log_smt_pl_eventtype.cs" />
+    <Compile Include="Earlybound\smt_log_StatusCode.cs" />
+    <Compile Include="Earlybound\smt_milestone_project.cs" />
+    <Compile Include="Earlybound\smt_model_contract.cs" />
+    <Compile Include="Earlybound\smt_monthly_revenue_recognition.cs" />
+    <Compile Include="Earlybound\smt_professional_experiences.cs" />
+    <Compile Include="Earlybound\smt_programa.cs" />
+    <Compile Include="Earlybound\smt_project_alerts.cs" />
+    <Compile Include="Earlybound\smt_project_alerts_smt_pl_taskchangedfield.cs" />
+    <Compile Include="Earlybound\smt_project_alerts_StatusCode.cs" />
+    <Compile Include="Earlybound\smt_purchasing_period.cs" />
+    <Compile Include="Earlybound\smt_purchasing_period_StatusCode.cs" />
+    <Compile Include="Earlybound\smt_reason_change_function.cs" />
+    <Compile Include="Earlybound\smt_resouce_departure_optionset.cs" />
+    <Compile Include="Earlybound\smt_resource_departure_eb.cs" />
+    <Compile Include="Earlybound\smt_smartparameter.cs" />
+    <Compile Include="Earlybound\smt_smartparameter_StatusCode.cs" />
+    <Compile Include="Earlybound\smt_tarefadabaseline.cs" />
+    <Compile Include="Earlybound\smt_type_absence.cs" />
+    <Compile Include="Earlybound\smt_type_hours.cs" />
+    <Compile Include="Earlybound\smt_type_hours_smt_pl_type_hours.cs" />
+    <Compile Include="Earlybound\smt_type_hours_StatusCode.cs" />
+    <Compile Include="Earlybound\SystemUser.cs" />
+    <Compile Include="Earlybound\SystemUserRoles.cs" />
+    <Compile Include="Earlybound\Team.cs" />
+    <Compile Include="Earlybound\TeamMembership.cs" />
+    <Compile Include="Earlybound\TeamRoles.cs" />
+    <Compile Include="Earlybound\UserSettings.cs" />
+    <Compile Include="Earlybound\WebResource.cs" />
+    <Compile Include="Models\OperationSetResponse.cs" />
+    <Compile Include="Models\SystemUserInfos.cs" />
+    <Compile Include="Models\UpdatedContour.cs" />
+    <Compile Include="MultiLanguage\Resx.cs" />
+    <Compile Include="PluginBase.cs" />
+    <Compile Include="Plugins\Aprovação de Projeto\PreUpdateSync_msdyn_projectapproval.cs" />
+    <Compile Include="Plugins\Linha da Ordem\PostUpdateAsync.cs" />
+    <Compile Include="Plugins\Linha da Ordem\PostUpdateSync.cs" />
+    <Compile Include="Plugins\Linha da Ordem\PostCreateSync.cs" />
+    <Compile Include="Plugins\msdyn_projecttask\PostCreateAsync_ msdyn_projecttask.cs" />
+    <Compile Include="Plugins\msdyn_projecttask\[Desativaddo]PostCreateSync_msdyn_projecttask.cs" />
+    <Compile Include="Plugins\msdyn_projecttask\PostUpdateAsync_msdyn_projecttask.cs" />
+    <Compile Include="Plugins\msdyn_projecttask\PostUpdateSync_msdyn_projecttask.cs" />
+    <Compile Include="Plugins\msdyn_projecttask\[Desativaddo]PreCreateSync_msdyn_projecttask.cs" />
+    <Compile Include="Plugins\msdyn_resourceassignment\PostUpdateSync_msdyn_resourceassignment.cs" />
+    <Compile Include="Plugins\msdyn_resourceassignment\PreValidationSync_msdyn_resourceassignment.cs" />
+    <Compile Include="Plugins\msdyn_timeentry\PostUpdateAsync_msdyn_timeentry.cs" />
+    <Compile Include="Plugins\msdyn_timeentry\PostUpdateSync_msdyn_timeentry.cs" />
+    <Compile Include="Plugins\msdyn_timeentry\PreCreateSync_msdyn_timeentry.cs" />
+    <Compile Include="Plugins\msdyn_timeentry\PreUpdateSync_msdyn_timeentry.cs" />
+    <Compile Include="Plugins\Projeto\PostCreateAsync.cs" />
+    <Compile Include="Plugins\Projeto\PostUpdateAsync.cs" />
+    <Compile Include="Plugins\Projeto\PostUpdateSync.cs" />
+    <Compile Include="Plugins\quote\PostUpdateSync_quote.cs" />
+    <Compile Include="Plugins\quote\PostCreateSync_quote.cs" />
+    <Compile Include="Plugins\msdyn_projecttask\PreUpdateSync_msdyn_projecttask.cs" />
+    <Compile Include="Plugins\smt_changefunctions\PreCreate_Changing_Resouces_Functions.cs" />
+    <Compile Include="Plugins\smt_confirm_holiday_request\PreCreateConfirmHolidayRequest.cs" />
+    <Compile Include="Plugins\smt_holidayrequest\PostUpdateAsync_smt_holiday_request.cs" />
+    <Compile Include="Plugins\smt_holidayrequest\PreCreateSync_smt_holiday_request.cs" />
+    <Compile Include="Plugins\smt_holidayrequest\PreUpdateSync_smt_holiday_request.cs" />
+    <Compile Include="Plugins\smt_monthly_revenue_recognition\PostCreateAsync_smt_monthly_revenue_recognition.cs" />
+    <Compile Include="Plugins\Smt_purchasing_period\PostUpdateSync_smt_purchasing_period.cs" />
+    <Compile Include="Plugins\Smt_purchasing_period\PreCreateSync_smt_purchasing_period.cs" />
+    <Compile Include="Plugins\Smt_purchasing_period\PreUpdateSync_smt_purchasing_period.cs" />
+    <Compile Include="Plugins\Smt_resource_departure\PreCreateSync.cs" />
+    <Compile Include="Plugins\Smt_resource_departure\PostUpdateAsync.cs" />
+    <Compile Include="Plugins\Smt_resource_departure\PreUpdateSync.cs" />
+    <Compile Include="Plugins\smt_smartparameter\PreCreateSync_smt_smartparametert.cs" />
+    <Compile Include="Plugins\smt_smartparameter\PreUpdateSync_smt_smartparameter.cs" />
+    <Compile Include="Plugins\smt_type_hours\PreCreateSync_smt_type_hours.cs" />
+    <Compile Include="Plugins\smt_type_hours\PreUpdateSync_smt_type_hours.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Workflows\SendEmailToDefaultUser.cs" />
+    <Compile Include="Workflows\smt_cancel_holiday_request\SenEmail.cs" />
+    <Compile Include="Workflows\smt_resource_departure\SendEmailToDefaultUser_ResourceDeparture.cs" />
+    <Compile Include="Workflows\smt_resource_departure\SendEmail_ResourceDeparture.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="bin\coretools\CrmSvcUtil.exe.config" />
+    <None Include="bin\coretools\LicenseTerms.docx" />
+    <None Include="bin\coretools\SolutionPackager.exe.config" />
+    <None Include="Extends.ruleset" />
+    <Fakes Include="Fakes\Microsoft.Crm.Sdk.Proxy.fakes" />
+    <Fakes Include="Fakes\Microsoft.Xrm.Sdk.Workflow.fakes" />
+    <None Include="packages.config" />
+    <None Include="SmartKey.snk" />
+    <None Include="stylecop.json" />
+    <None Include="stylecop1.json" />
+    <None Include="stylecop2.json" />
+    <None Include="stylecop3.json" />
+    <None Include="stylecop4.json" />
+    <None Include="stylecop5.json" />
+    <None Include="stylecop6.json" />
+    <None Include="stylecop7.json" />
+    <None Include="stylecop8.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Analyzer Include="$(SolutionDir)\packages\StyleCop.Analyzers.1.0.2\analyzers\dotnet\cs\StyleCop.Analyzers.CodeFixes.dll" />
+    <Analyzer Include="$(SolutionDir)\packages\StyleCop.Analyzers.1.0.2\analyzers\dotnet\cs\StyleCop.Analyzers.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\" />
+    <Folder Include="CustomActions\msdyn_resourceassignment\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\EntityFramework.6.4.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\EntityFramework.6.4.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Crm.Sdk.Proxy, Version=9.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Microsoft.CrmSdk.CoreAssemblies.9.0.2.23\lib\net462\Microsoft.Crm.Sdk.Proxy.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xrm.Sdk, Version=9.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Microsoft.CrmSdk.CoreAssemblies.9.0.2.23\lib\net462\Microsoft.Xrm.Sdk.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xrm.Sdk.Workflow, Version=9.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Microsoft.CrmSdk.Workflow.9.0.2.22\lib\net462\Microsoft.Xrm.Sdk.Workflow.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Activities" />
+    <Reference Include="System.Activities.Presentation" />
+    <Reference Include="System.CodeDom, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\System.CodeDom.4.7.0\lib\net461\System.CodeDom.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.DirectoryServices.AccountManagement" />
+    <Reference Include="System.IdentityModel" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceModel.Web" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Workflow.Activities" />
+    <Reference Include="System.Workflow.ComponentModel" />
+    <Reference Include="System.Workflow.Runtime" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\coretools\CrmSvcUtil.exe" />
+    <Content Include="bin\coretools\CrmSvcUtil.xml" />
+    <Content Include="bin\coretools\Microsoft.ApplicationInsights.dll" />
+    <Content Include="bin\coretools\Microsoft.Crm.Sdk.Proxy.dll" />
+    <Content Include="bin\coretools\Microsoft.IdentityModel.Clients.ActiveDirectory.dll" />
+    <Content Include="bin\coretools\Microsoft.PowerApps.AppInsights.BatchedTelemetry.dll" />
+    <Content Include="bin\coretools\Microsoft.PowerApps.AppInsights.BatchedTelemetryChannel.dll" />
+    <Content Include="bin\coretools\Microsoft.Rest.ClientRuntime.dll" />
+    <Content Include="bin\coretools\Microsoft.Xrm.Sdk.Deployment.dll" />
+    <Content Include="bin\coretools\Microsoft.Xrm.Sdk.dll" />
+    <Content Include="bin\coretools\Microsoft.Xrm.Tooling.Connector.dll" />
+    <Content Include="bin\coretools\Microsoft.Xrm.Tooling.CrmConnectControl.dll" />
+    <Content Include="bin\coretools\Microsoft.Xrm.Tooling.Ui.Styles.dll" />
+    <Content Include="bin\coretools\Newtonsoft.Json.dll" />
+    <Content Include="bin\coretools\Other Redistributable.txt" />
+    <Content Include="bin\coretools\pacTelemetryUpload.exe" />
+    <Content Include="bin\coretools\SolutionPackager.exe" />
+    <Content Include="bin\coretools\SolutionPackagerLib.dll" />
+    <Content Include="bin\coretools\System.Diagnostics.DiagnosticSource.dll" />
+    <Content Include="bin\coretools\System.ValueTuple.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(SolutionDir)\packages\MSBuild.ILMerge.Task.1.0.5\build\MSBuild.ILMerge.Task.targets" Condition="Exists('$(SolutionDir)\packages\MSBuild.ILMerge.Task.1.0.5\build\MSBuild.ILMerge.Task.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\..\packages\EntityFramework.6.4.0\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\..\packages\EntityFramework.6.4.0\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\..\packages\EntityFramework.6.4.0\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\..\packages\EntityFramework.6.4.0\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\..\packages\EntityFramework.6.4.0\build\EntityFramework.targets" Condition="Exists('..\..\packages\EntityFramework.6.4.0\build\EntityFramework.targets')" />
+</Project>

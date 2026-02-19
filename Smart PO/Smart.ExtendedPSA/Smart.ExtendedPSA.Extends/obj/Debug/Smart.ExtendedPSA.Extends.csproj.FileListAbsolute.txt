@@ -1,0 +1,126 @@
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\obj\Debug\Smart.ExtendedPSA.Extends.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.dll.config
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Extends.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.dll.CodeAnalysisLog.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.dll.lastcodeanalysissucceeded
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\EntityFramework.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\System.CodeDom.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\EntityFramework.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\System.CodeDom.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\obj\Debug\Smart.ExtendedPSA.Extends.csproj.CopyComplete
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\obj\Debug\Smart.ExtendedPSA.Extends.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\obj\Debug\Smart.ExtendedPSA.Extends.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\obj\Debug\Smart.ExtendedPSA.Extends.csproj.AssemblyReference.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\obj\Debug\Smart.ExtendedPSA.Extends.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\obj\Debug\Smart.ExtendedPSA.Extends.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\obj\Debug\Smart.ExtendedPSA.Extends.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.dll.config
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Extends.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.dll.CodeAnalysisLog.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.dll.lastcodeanalysissucceeded
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\EntityFramework.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\System.CodeDom.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\EntityFramework.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\System.CodeDom.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\obj\Debug\Smart.ExtendedPSA.Extends.csproj.CopyComplete
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\obj\Debug\Smart.ExtendedPSA.Extends.csproj.AssemblyReference.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.dll.config
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Extends.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.dll.CodeAnalysisLog.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.dll.lastcodeanalysissucceeded
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\EntityFramework.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\System.CodeDom.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\EntityFramework.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\System.CodeDom.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\obj\Debug\Smart.ExtendedPSA.Extends.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\obj\Debug\Smart.ExtendedPSA.Extends.csproj.CopyComplete
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\obj\Debug\Smart.ExtendedPSA.Extends.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\obj\Debug\Smart.ExtendedPSA.Extends.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\obj\Debug\Smart.ExtendedPSA.Extends.csproj.AssemblyReference.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.dll.config
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Extends.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.dll.CodeAnalysisLog.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.dll.lastcodeanalysissucceeded
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\EntityFramework.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\System.CodeDom.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\EntityFramework.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\System.CodeDom.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\obj\Debug\Smart.ExtendedPSA.Extends.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\obj\Debug\Smart.ExtendedPSA.Extends.csproj.CopyComplete
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\obj\Debug\Smart.ExtendedPSA.Extends.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\obj\Debug\Smart.ExtendedPSA.Extends.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\obj\Debug\Smart.ExtendedPSA.Extends.csproj.AssemblyReference.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.dll.config
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Extends.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.dll.CodeAnalysisLog.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.dll.lastcodeanalysissucceeded
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\EntityFramework.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\System.CodeDom.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\EntityFramework.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\System.CodeDom.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\obj\Debug\Smart.ExtendedPSA.Extends.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\obj\Debug\Smart.ExtendedPSA.Extends.csproj.CopyComplete
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\obj\Debug\Smart.ExtendedPSA.Extends.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\obj\Debug\Smart.ExtendedPSA.Extends.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\obj\Debug\Smart.ExtendedPSA.Extends.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\obj\Debug\Smart.ExtendedPSA.Extends.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\obj\Debug\Smart.ExtendedPSA.Extends.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.dll.config
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Extends.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.dll.CodeAnalysisLog.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Smart.ExtendedPSA.Extends.dll.lastcodeanalysissucceeded
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\EntityFramework.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\System.CodeDom.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\EntityFramework.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\bin\Debug\System.CodeDom.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.Extends\obj\Debug\Smart.ExtendedPSA.Extends.csproj.CopyComplete

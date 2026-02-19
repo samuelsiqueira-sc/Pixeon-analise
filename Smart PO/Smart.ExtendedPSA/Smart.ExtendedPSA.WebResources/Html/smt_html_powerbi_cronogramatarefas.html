@@ -1,0 +1,133 @@
+﻿<html>
+<head>
+    <meta charset="utf-8">
+    <title>Cronograma de Tarefas</title>
+    <style>
+        .button {
+            padding: 02px 10px;
+            font-size: 15px;
+            text-align: center;
+            cursor: pointer;
+            outline: none;
+            color: #fff;
+            background-color: #4CAF50;
+            border: none;
+            border-radius: 15px;
+            box-shadow: 0 9px #999;
+        }
+
+            .button:hover {
+                background-color: #3e8e41
+            }
+
+            .button:active {
+                background-color: #3e8e41;
+                box-shadow: 0 5px #666;
+                transform: translateY(4px);
+            }
+    </style>
+    <meta>
+    <meta>
+    <meta>
+    <meta>
+    <meta>
+    <meta>
+    <meta>
+    <meta>
+    <meta>
+    <meta>
+    <meta>
+    <meta>
+    <meta>
+    <meta>
+    <meta>
+</head>
+<body style="overflow-wrap: break-word;" onfocusout="parent.setEmailRange();" data-new-gr-c-s-check-loaded="14.1097.0" data-gr-ext-installed="" data-new-gr-c-s-loaded="14.1097.0">
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript">
+
+        // Adiciona a função no load da página
+        window.onload = function () {
+            "use strict";
+            // Get no ID do registro e dá replace nos caracteres "{" e "}" por aspas simples
+            var entityId = window.parent.Xrm.Page.data.entity.getId().replace('{', '').replace('}', '');
+
+            // Cria Embed URL e concatenada ao ID da entidade
+            var embedURL = GetParameter("PowerBI_CronogramaTarefas");
+            //var filter = "&?filter=Projetos/msdyn_projectid eq ";
+            //embedURL = embedURL.concat(filter, entityId);
+            // debugger;
+            // Adiciona Embed URL no iFrame
+            //document.getElementById('iFrameReport').src = embedURL;
+        };
+
+        function GetParameter(name) {
+            "use strict";
+            //var results = { isFault: false, data: [], erro: null };
+            var embedURL = "";
+            //var globalContext = Xrm.Utility.getGlobalContext();
+            window.parent.Xrm.WebApi.online.retrieveMultipleRecords("smt_smartparameter", "?$select=smt_name,_smt_organizationalunit_value,smt_value&$filter=smt_name eq '" + name + "'").then(
+                function success(results) {
+                    for (var i = 0; i < results.entities.length; i++) {
+                        //var smt_name = results.entities[i]["smt_name"];
+                        //var _smt_organizationalunit_value = results.entities[i]["_smt_organizationalunit_value"];
+                        //var _smt_organizationalunit_value_formatted = results.entities[i]["_smt_organizationalunit_value@OData.Community.Display.V1.FormattedValue"];
+                        //var _smt_organizationalunit_value_lookuplogicalname = results.entities[i]["_smt_organizationalunit_value@Microsoft.Dynamics.CRM.lookuplogicalname"];
+                        embedURL = results.entities[i]["smt_value"];
+                        var entityId = "'" + window.parent.Xrm.Page.data.entity.getId().replace('{', '').replace('}', '') + "'";
+                        var filter = "?filter=Projetos/msdyn_projectid eq ";
+                        embedURL = embedURL.concat(filter, entityId);
+                        document.getElementById('iFrameReport').src = embedURL;
+                        //debugger;
+                    }
+                },
+                function (error) {
+                    Xrm.Navigation.openAlertDialog(error.message);
+                }
+            );
+
+            return embedURL;
+        }
+
+        function showAlertDialog(message) {
+            "use strict";
+            var message = { confirmButtonLabel: "OK", text: message };
+            var alertOptions = { height: 150, width: 280 };
+
+            Xrm.Navigation.openAlertDialog(message, alertOptions).then(
+                function success(result) {
+                },
+                function (error) {
+                })
+        }
+
+        //Metodo para realizar requisições no powerbi atraves de suas API's (COnfigurar a url da requisição na entidade de parametros)
+        function Request_PowerBI_API(chamada) {
+            "use strict";
+            if (confirm('Deseja realmente executar a atualização do DataSet?')) {
+                var urlRequisicao = GetParameter(chamada);
+                var settings = {
+                    "async": true,
+                    "crossDomain": true,
+                    "url": "https://prod-08.westus.logic.azure.com:443/workflows/79f07c94aafe4571af85267242ef67da/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=foKver7Bsb_By-fAR1_0Gq9HVRTe2xMRJ-9ujmh1arg",
+                    "method": "POST",
+                    "headers": {
+                        "Content-Type": "application/json",
+                        "cache-control": "no-cache",
+                        "Postman-Token": "77bd6088-6bc0-431e-a2e6-6b172fdcff18"
+                    },
+                    "processData": false,
+                    "data": "{\"urlRequisicao\":\"" + urlRequisicao + "\"}"
+                }
+
+                $.ajax(settings).done(function (response) {
+                    showAlertDialog('Solicitação realizada com sucesso!\nSe for uma atualização de dados, pode demorar um tempo para refletir no seu Relatório/Gráfico');
+                });
+            }
+        }
+
+    </script>
+    <input type="button" value="Atualizar Dados" class="button" style="visibility:hidden;" onclick="Request_PowerBI_API('PowerBI_Refresh_CronogramaTarefas')"><br><br>
+    <iframe id="iFrameReport" width="100%" height="100%" frameborder="0" allowfullscreen="true" src="">
+</body>
+</html></iframe></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>

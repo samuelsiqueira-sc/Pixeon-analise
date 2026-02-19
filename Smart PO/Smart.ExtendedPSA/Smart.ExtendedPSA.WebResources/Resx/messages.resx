@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="CIHMTTD01" xml:space="preserve">
+    <value>Minimum number of days not reached.</value>
+  </data>
+  <data name="CIHMTTD02" xml:space="preserve">
+    <value>The field start date does not contains value.</value>
+  </data>
+  <data name="CIHMTTD03" xml:space="preserve">
+    <value>The field end date does not contains value.</value>
+  </data>
+  <data name="ExistingBankHour" xml:space="preserve">
+    <value>There is already a Bank of Hours type record</value>
+  </data>
+  <data name="ExistingHour" xml:space="preserve">
+    <value>There is already a normal time type.</value>
+  </data>
+  <data name="Hi" xml:space="preserve">
+    <value>Hello</value>
+  </data>
+  <data name="NoParameter_01" xml:space="preserve">
+    <value>Could not find the Parameter record, to update the worked Projects of the Resource</value>
+  </data>
+  <data name="TRVALTTASK1" xml:space="preserve">
+    <value>It is not allowed to make changes in the 'WorkItem Type' field for tasks of type 'Interation'.</value>
+  </data>
+  <data name="TRVALTTASK2" xml:space="preserve">
+    <value>It is not allowed to make changes in the 'Primary Task' field for tasks of type 'Interation'.</value>
+  </data>
+  <data name="TRVALTTASK3" xml:space="preserve">
+    <value>It is not allowed to make changes in Name of Task for tasks of type 'Interation'.</value>
+  </data>
+  <data name="USRPP01" xml:space="preserve">
+    <value>Error: Unfortunately we have not been able to send your holiday request because you do not have enough purchased days for what you are asking. Please consider requesting a part anticipation.</value>
+  </data>
+  <data name="USRPP02" xml:space="preserve">
+    <value>Error: Unfortunately we have not been able to approve this vacation, because the requesting resource already has this amount of days available, using improperly the antecipation. Please ask the him to choose a normal type of holiday.</value>
+  </data>
+  <data name="USRPP03" xml:space="preserve">
+    <value>Error: Unfortunately we have not been able to send your holiday request because you still do not have sufficient balance in purchase. Allow more time to send, or consider decreasing the amount of days requested.</value>
+  </data>
+  <data name="NoTargPlugin" xml:space="preserve">
+    <value>Input Parameter does not contain a Target.</value>
+  </data>
+  <data name="ParameterAlreadyExist" xml:space="preserve">
+    <value>There is already a parameter with that name inside that organizational unit.</value>
+  </data>
+  <data name="PCSPP01" xml:space="preserve">
+    <value>Error: The resource field is required.</value>
+  </data>
+  <data name="PCSPP02" xml:space="preserve">
+    <value>Error: The Start Date field is required.</value>
+  </data>
+  <data name="TIMEENTRY1" xml:space="preserve">
+    <value>The task of the related project has already achieved 100% of physical progress. Contact your Manager.</value>
+  </data>
+  <data name="HSTCRER" xml:space="preserve">
+    <value>Error creating Status History.</value>
+  </data>
+  <data name="PGCPF01" xml:space="preserve">
+    <value>The selected task can not be a FRAME! One landmark can not be in another frame's chain.</value>
+  </data>
+  <data name="PGCPF02" xml:space="preserve">
+    <value>It is not possible to create the task, check Project Status.</value>
+  </data>
+  <data name="PGCPF03" xml:space="preserve">
+    <value>You can not change a recognized landmark.</value>
+  </data>
+  <data name="PGCPF04" xml:space="preserve">
+    <value>Only tasks marked as DELIVERY FRAME can be sent for customer approval.</value>
+  </data>
+  <data name="PGCPF05" xml:space="preserve">
+    <value>Only milestones completed or disapproved can be sent for client approval.</value>
+  </data>
+  <data name="PGCPF06" xml:space="preserve">
+    <value>The field(s)</value>
+  </data>
+  <data name="PGCPF06_2" xml:space="preserve">
+    <value>can not be changed in the current status of the project.</value>
+  </data>
+  <data name="PGCPF07" xml:space="preserve">
+    <value>Only members with the profile.</value>
+  </data>
+  <data name="PGCPF07_2" xml:space="preserve">
+    <value>can send landmarks for approval.</value>
+  </data>
+  <data name="PGCPF07_3" xml:space="preserve">
+    <value>can pre-approve landmarks.</value>
+  </data>
+  <data name="PGCPF07_4" xml:space="preserve">
+    <value>can approve landmarks.</value>
+  </data>
+  <data name="PGCPF07_5" xml:space="preserve">
+    <value>or</value>
+  </data>
+  <data name="PGCPF08" xml:space="preserve">
+    <value>Can not find frame status.</value>
+  </data>
+  <data name="PGCPF09" xml:space="preserve">
+    <value>The selected task can not be a FRAME! One landmark can not be in another frame's chain.</value>
+  </data>
+  <data name="PGCPF10" xml:space="preserve">
+    <value>It is not possible to make this change, the cost of completing the task is higher than the planned cost.</value>
+  </data>
+  <data name="PRJBLCR" xml:space="preserve">
+    <value>The process of creating BaseLine is in progress.</value>
+  </data>
+  <data name="PRJBLER" xml:space="preserve">
+    <value>There was an error creating the baseline tasks.</value>
+  </data>
+  <data name="QUTCRER" xml:space="preserve">
+    <value>It is not possible to create a quotation line for an additive type contract without a Primary Contract.</value>
+  </data>
+  <data name="QUTUPERR" xml:space="preserve">
+    <value>Error updating quote line.</value>
+  </data>
+  <data name="QUTUPTER" xml:space="preserve">
+    <value>Could not update the registration.</value>
+  </data>
+  <data name="MAXHOUR01" xml:space="preserve">
+    <value>You can only select the type of hours as Normal on days that are not considered holidays. Please change the type of hours to Bank of Hours - Holidays or Extra Hours - Holidays.</value>
+  </data>
+  <data name="MAXHOUR02" xml:space="preserve">
+    <value>You can not create the Normal time entry because you have already reached the maximum working hours per day. Please create the rest of the schedules as Bank of Hours or Extra Hours.</value>
+  </data>
+  <data name="MAXHOUR03" xml:space="preserve">
+    <value>You can only select the type of hours as Normal on days that are not considered holidays. Please change the type of hours to 'Bank of Hours - Holidays' or 'Extra Hours - Holidays'.</value>
+  </data>
+  <data name="MAXHOUR04" xml:space="preserve">
+    <value>You can only select the type of hours as Normal on the work days stipulated in your Contract. Please change the type of hours to Bank of Hours or Overtime.</value>
+  </data>
+  <data name="MAXHOUR05" xml:space="preserve">
+    <value>You can only select the type of hours as Bank of Hours - Business Days on days that are not considered holidays. Please change the type of hours to 'Bank of Hours - Holidays' or 'Extra Hours - Holidays'.</value>
+  </data>
+  <data name="MAXHOUR06" xml:space="preserve">
+    <value>You can only select the type of hours as Bank of Hours - Business Days on the working days stipulated in your contract. Please change the type of hours.</value>
+  </data>
+  <data name="MAXHOUR07" xml:space="preserve">
+    <value>It is only possible to select the type of hours such as Bank of Hours - Sunday on days that are not considered holidays. Please change the type of hours to "Bank of Hours - Holiday" or "Extra Hours - Holidays".</value>
+  </data>
+  <data name="MAXHOUR08" xml:space="preserve">
+    <value>It is only possible to select hours type such as Bank of Hours - Sunday on Sundays. Please change the type of hours.</value>
+  </data>
+  <data name="MAXHOUR09" xml:space="preserve">
+    <value>It is only possible to select type of hours as Bank of Hours - Holidays in days considered holidays. Please change the type of hours.</value>
+  </data>
+  <data name="MAXHOUR10" xml:space="preserve">
+    <value>You can only select the type of hours as Excess Hours - Business Days on days that are not considered holidays. Please change the type of hours to 'Bank of Hours - Holidays' or 'Extra Hours - Holidays'.</value>
+  </data>
+  <data name="MAXHOUR11" xml:space="preserve">
+    <value>It is not possible to create the time entry of type Excess Hours - Business Days, since the normal hours of the expedition have not yet been reached.</value>
+  </data>
+  <data name="MAXHOUR12" xml:space="preserve">
+    <value>You can only select the type of hours as Extra Hours - Business Days on the working days stipulated in your contract. Please change the type of hours.</value>
+  </data>
+  <data name="MAXHOUR13" xml:space="preserve">
+    <value>It is only possible to select the type of hours as Extras - Holidays on days considered holidays. Please change the type of hours.</value>
+  </data>
+  <data name="MAXHOUR14" xml:space="preserve">
+    <value>You can only select the type of hours as Extras - Sundays on days that are not considered holidays. Please change the type of hours to ;Bank of Hours - Holidays' or 'Extra Hours - Holidays'.</value>
+  </data>
+  <data name="MAXHOUR15" xml:space="preserve">
+    <value>You can only select the type of hours as Extra Hours - Sundays on Sundays. Please change the type of hours.</value>
+  </data>
+  <data name="MAXHOUR16" xml:space="preserve">
+    <value>You can only select the type of hours as Extras - Saturdays on days that are not considered holidays. Please change the type of hours to Bank of Hours - Holidays or 'Extra Hours - Holidays'.</value>
+  </data>
+  <data name="MAXHOUR17" xml:space="preserve">
+    <value>You can only select the type of hours as Extra Hours - Saturdays on Saturdays. Please change the type of hours.</value>
+  </data>
+  <data name="USRPP04" xml:space="preserve">
+    <value>Error: This vacation request could not be approved because the resource in question does not have sufficient balance for the number of days requested.</value>
+  </data>
+  <data name="MAXHOUR18" xml:space="preserve">
+    <value>You can only select the type of hours as Bank of Hours - Business Days after sending the maximum of hours of the normal type in the day. Please change type of hours.</value>
+  </data>
+  <data name="VALDESC01" xml:space="preserve">
+    <value>Error: Could not send, because description field is required. Please fill in the description to send your time entry.</value>
+  </data>
+  <data name="UNPCRR" xml:space="preserve">
+    <value>The user does not have a resource association.</value>
+  </data>
+  <data name="ENCS" xml:space="preserve">
+    <value>Email not registered in the system.</value>
+  </data>
+  <data name="CUTDR111" xml:space="preserve">
+    <value>It is not possible to create/update your departure register. Contact the administrators or try again later.</value>
+  </data>
+  <data name="URSPP01" xml:space="preserve">
+    <value>Error: Unfortunately we were unable to send your vacation request, because you do not have purchased days for what you are requesting. Please consider requesting an advance request.</value>
+  </data>
+  <data name="EHAE1234" xml:space="preserve">
+    <value>It is not possible to create a departure for that date, because the resource already have a request for that day.</value>
+  </data>
+  <data name="IPTP01" xml:space="preserve">
+    <value>Error:  It is not possible to post a time entry to a parent task</value>
+  </data>
+  <data name="MAXHOUR19" xml:space="preserve">
+    <value>It is not possible to create a time entry of type Absence, as you have already reached the maximum number of hours in the day.</value>
+  </data>
+  <data name="MAXHOUR20" xml:space="preserve">
+    <value>It is only possible to select the type of hours as Absence on days that are not considered public holidays.</value>
+  </data>
+  <data name="MAXHOUR21" xml:space="preserve">
+    <value>It is only possible to select the type of hours as Absence on the working days stipulated in your Contract.</value>
+  </data>
+</root>

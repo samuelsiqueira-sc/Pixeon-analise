@@ -1,0 +1,448 @@
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\CSS\common.css
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\HTML\Default.htm
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\body_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\contentarea_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\contentArea_back_home.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\content_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\content_back_orig.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\footer_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\header_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\nav_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\nav_list_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\top_item_selected_bg.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\CSS\common.css
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\HTML\Default.htm
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\body_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\contentarea_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\contentArea_back_home.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\content_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\content_back_orig.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\footer_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\header_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\nav_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\nav_list_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\top_item_selected_bg.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\ImportConfig.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\SmartTestHelper_1_0_0_0_managed.zip
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\SmartTestHelper_Data.zip
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Smart.ExtendedPSA.SmartTestHelper.dll.config
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Smart.ExtendedPSA.SmartTestHelper.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Smart.ExtendedPSA.SmartTestHelper.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.AifServices.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Configuration.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Listeners.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Logging.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Logging.Providers.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Providers.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.TypeProvider.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Csr.Browser.Web.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Csr.Core.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Csr.Win32Api.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Tooling.PackageDeployment.CrmPackageExtentionBase.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Tooling.PackageDeployment.CrmPackageExtentionBase.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.csproj.CopyComplete
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.csproj.AssemblyReference.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\CSS\common.css
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\HTML\Default.htm
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\body_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\contentarea_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\contentArea_back_home.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\content_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\content_back_orig.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\footer_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\header_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\nav_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\nav_list_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\top_item_selected_bg.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\CSS\common.css
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\HTML\Default.htm
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\body_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\contentarea_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\contentArea_back_home.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\content_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\content_back_orig.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\footer_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\header_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\nav_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\nav_list_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\top_item_selected_bg.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\ImportConfig.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\SmartTestHelper_1_0_0_0_managed.zip
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\SmartTestHelper_Data.zip
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Smart.ExtendedPSA.SmartTestHelper.dll.config
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Smart.ExtendedPSA.SmartTestHelper.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Smart.ExtendedPSA.SmartTestHelper.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.AifServices.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Configuration.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Listeners.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Logging.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Logging.Providers.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Providers.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.TypeProvider.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Csr.Browser.Web.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Csr.Core.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Csr.Win32Api.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Tooling.PackageDeployment.CrmPackageExtentionBase.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Tooling.PackageDeployment.CrmPackageExtentionBase.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.csproj.AssemblyReference.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.csproj.CopyComplete
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\CSS\common.css
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\HTML\Default.htm
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\body_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\contentarea_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\contentArea_back_home.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\content_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\content_back_orig.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\footer_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\header_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\nav_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\nav_list_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\top_item_selected_bg.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\CSS\common.css
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\HTML\Default.htm
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\body_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\contentarea_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\contentArea_back_home.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\content_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\content_back_orig.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\footer_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\header_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\nav_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\nav_list_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\top_item_selected_bg.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\ImportConfig.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\SmartTestHelper_1_0_0_0_managed.zip
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\SmartTestHelper_Data.zip
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Smart.ExtendedPSA.SmartTestHelper.dll.config
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Smart.ExtendedPSA.SmartTestHelper.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Smart.ExtendedPSA.SmartTestHelper.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.AifServices.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Configuration.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Listeners.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Logging.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Logging.Providers.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Providers.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.TypeProvider.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Csr.Browser.Web.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Csr.Core.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Csr.Win32Api.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Tooling.PackageDeployment.CrmPackageExtentionBase.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Tooling.PackageDeployment.CrmPackageExtentionBase.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.csproj.AssemblyReference.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.csproj.CopyComplete
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\CSS\common.css
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\HTML\Default.htm
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\body_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\contentarea_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\contentArea_back_home.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\content_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\content_back_orig.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\footer_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\header_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\nav_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\nav_list_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\top_item_selected_bg.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\CSS\common.css
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\HTML\Default.htm
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\body_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\contentarea_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\contentArea_back_home.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\content_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\content_back_orig.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\footer_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\header_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\nav_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\nav_list_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\top_item_selected_bg.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\ImportConfig.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\SmartTestHelper_1_0_0_0_managed.zip
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\SmartTestHelper_Data.zip
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Smart.ExtendedPSA.SmartTestHelper.dll.config
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Smart.ExtendedPSA.SmartTestHelper.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Smart.ExtendedPSA.SmartTestHelper.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.AifServices.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Configuration.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Listeners.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Logging.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Logging.Providers.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Providers.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.TypeProvider.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Csr.Browser.Web.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Csr.Core.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Csr.Win32Api.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Tooling.PackageDeployment.CrmPackageExtentionBase.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Tooling.PackageDeployment.CrmPackageExtentionBase.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.csproj.AssemblyReference.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.csproj.CopyComplete
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\CSS\common.css
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\HTML\Default.htm
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\body_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\contentarea_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\contentArea_back_home.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\content_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\content_back_orig.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\footer_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\header_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\nav_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\nav_list_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\top_item_selected_bg.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\CSS\common.css
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\HTML\Default.htm
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\body_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\contentarea_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\contentArea_back_home.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\content_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\content_back_orig.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\footer_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\header_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\nav_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\nav_list_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\top_item_selected_bg.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\ImportConfig.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\SmartTestHelper_1_0_0_0_managed.zip
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\SmartTestHelper_Data.zip
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Smart.ExtendedPSA.SmartTestHelper.dll.config
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Smart.ExtendedPSA.SmartTestHelper.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Smart.ExtendedPSA.SmartTestHelper.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.AifServices.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Configuration.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Listeners.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Logging.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Logging.Providers.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Providers.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.TypeProvider.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Csr.Browser.Web.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Csr.Core.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Csr.Win32Api.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Tooling.PackageDeployment.CrmPackageExtentionBase.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Tooling.PackageDeployment.CrmPackageExtentionBase.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.csproj.AssemblyReference.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.csproj.CopyComplete
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\CSS\common.css
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\HTML\Default.htm
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\body_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\contentarea_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\contentArea_back_home.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\content_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\content_back_orig.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\footer_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\header_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\nav_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\nav_list_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\top_item_selected_bg.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\CSS\common.css
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\HTML\Default.htm
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\body_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\contentarea_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\contentArea_back_home.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\content_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\content_back_orig.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\footer_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\header_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\nav_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\nav_list_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\top_item_selected_bg.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\ImportConfig.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\SmartTestHelper_1_0_0_0_managed.zip
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\SmartTestHelper_Data.zip
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Smart.ExtendedPSA.SmartTestHelper.dll.config
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Smart.ExtendedPSA.SmartTestHelper.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Smart.ExtendedPSA.SmartTestHelper.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.AifServices.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Configuration.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Listeners.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Logging.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Logging.Providers.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Providers.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.TypeProvider.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Csr.Browser.Web.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Csr.Core.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Csr.Win32Api.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Tooling.PackageDeployment.CrmPackageExtentionBase.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Tooling.PackageDeployment.CrmPackageExtentionBase.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.csproj.AssemblyReference.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.csproj.CopyComplete
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\CSS\common.css
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\HTML\Default.htm
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\body_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\contentarea_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\contentArea_back_home.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\content_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\content_back_orig.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\footer_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\header_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\nav_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\nav_list_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\EndHtml\Images\top_item_selected_bg.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\CSS\common.css
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\HTML\Default.htm
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\body_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\contentarea_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\contentArea_back_home.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\content_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\content_back_orig.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\footer_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\header_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\nav_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\nav_list_back.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\Content\en-us\WelcomeHtml\Images\top_item_selected_bg.gif
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\ImportConfig.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\SmartTestHelper_1_0_0_0_managed.zip
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\PkgFolder\SmartTestHelper_Data.zip
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Smart.ExtendedPSA.SmartTestHelper.dll.config
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Smart.ExtendedPSA.SmartTestHelper.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Smart.ExtendedPSA.SmartTestHelper.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.AifServices.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Configuration.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Listeners.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Logging.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Logging.Providers.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.Providers.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Common.TypeProvider.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Csr.Browser.Web.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Csr.Core.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Uii.Csr.Win32Api.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Tooling.PackageDeployment.CrmPackageExtentionBase.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Microsoft.Xrm.Tooling.PackageDeployment.CrmPackageExtentionBase.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.csproj.AssemblyReference.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.csproj.CopyComplete
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.SmartTestHelper\obj\Debug\Smart.ExtendedPSA.SmartTestHelper.pdb

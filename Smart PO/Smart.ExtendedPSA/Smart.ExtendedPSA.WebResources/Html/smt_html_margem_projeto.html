@@ -1,0 +1,316 @@
+﻿<html>
+<head>
+    <meta>
+    <meta>
+    <meta>
+    <meta>
+    <meta>
+    <meta>
+    <meta>
+    <meta>
+    <meta>
+    <meta>
+    <meta>
+    <meta>
+    <meta>
+    <meta>
+</head>
+<body onfocusout="parent.setEmailRange();" style="word-wrap: break-word;">
+    ﻿
+
+
+
+    <title>Atualizar Habilidade das Tarefas do Projeto</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <!--<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/jquery.bootstrapvalidator/0.5.3/css/bootstrapValidator.css" />-->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-validator/0.5.3/js/bootstrapValidator.js"></script>
+
+    <script>
+        "use strict";
+        var margemprojeto = undefined;
+        var margemcontrato = undefined;
+        function buscarValor() {
+            "use strict";
+            //debugger;
+            var entidade = window.parent.Xrm.Page.data.entity.getEntityName();
+            margemprojeto = window.parent.Xrm.Page.getAttribute("smt_margemprojeto").getValue();
+            margemcontrato = window.parent.Xrm.Page.getAttribute("smt_margemcontrato").getValue();
+            var projeto_id = null;
+
+            if (entidade === "msdyn_project") {
+                projeto_id = window.parent.Xrm.Page.data.entity.getId();
+            }
+            //debugger;
+
+            window.parent.Xrm.WebApi.retrieveRecord("msdyn_project", projeto_id, "?$select=smt_margemcontrato,smt_margemprojeto").then(
+                function success(result) {
+                    //console.log(result);
+                    // Columns
+                    var msdyn_projectid = result["msdyn_projectid"]; // Guid
+                    var smt_margemcontrato = result["smt_margemcontrato"]; // Decimal
+                    var smt_margemcontrato_formatted = result["smt_margemcontrato@OData.Community.Display.V1.FormattedValue"];
+                    var smt_margemprojeto = result["smt_margemprojeto"]; // Decimal
+                    var smt_margemprojeto_formatted = result["smt_margemprojeto@OData.Community.Display.V1.FormattedValue"];
+
+                    margemprojeto = smt_margemprojeto;
+                    margemcontrato = smt_margemcontrato;
+                    // debugger;
+                    if (margemprojeto !== undefined && margemcontrato !== undefined &&
+                        margemprojeto !== null && margemcontrato !== null) {
+                        $('.progress-value').first().text(margemprojeto + "%")
+                        //debugger;
+                        var posicaografico = 360 / margemprojeto;
+                        if (margemprojeto > margemcontrato) {
+                            $('.progress').addClass('green');
+                        }
+                        else {
+                            if (margemprojeto < 0) {
+                                $('.progress').addClass('red');
+                            }
+                            else {
+                                $('.progress').addClass('yellow');
+                            }
+                        }
+                    }
+                    else {
+                        $('.progress-value').first().text("- %")
+                    }
+                },
+                function (error) {
+                    // console.log(error.message);
+                }
+            );
+            
+        }
+
+        buscarValor();
+        //debugger;
+
+        function showAlertDialog(message) {
+            "use strict";
+           // debugger
+            var message = { confirmButtonLabel: "OK", text: message };
+            var alertOptions = { height: 150, width: 280 };
+
+            window.parent.Xrm.Navigation.openAlertDialog(message, alertOptions).then(
+                function success(result) {
+
+                },
+                function(error) {
+
+                })
+        }
+    </script>
+    <script src="ClientGlobalContext.js.aspx" type="text/javascript"></script>
+    <style>
+        .progress {
+            width: 150px;
+            height: 150px;
+            line-height: 150px;
+            background: none;
+            margin: 0 auto;
+            box-shadow: none;
+            position: relative;
+        }
+
+            .progress:after {
+                content: "";
+                width: 100%;
+                height: 100%;
+                border-radius: 50%;
+                border: 12px solid #fff;
+                position: absolute;
+                top: 0;
+                left: 0;
+            }
+
+            .progress > span {
+                width: 50%;
+                height: 100%;
+                overflow: hidden;
+                position: absolute;
+                top: 0;
+                z-index: 1;
+            }
+
+            .progress .progress-left {
+                left: 0;
+            }
+
+            .progress .progress-bar {
+                width: 100%;
+                height: 100%;
+                background: none;
+                border-width: 12px;
+                border-style: solid;
+                position: absolute;
+                top: 0;
+            }
+
+            .progress .progress-left .progress-bar {
+                left: 100%;
+                border-top-right-radius: 80px;
+                border-bottom-right-radius: 80px;
+                border-left: 0;
+                -webkit-transform-origin: center left;
+                transform-origin: center left;
+            }
+
+            .progress .progress-right {
+                right: 0;
+            }
+
+                .progress .progress-right .progress-bar {
+                    left: -100%;
+                    border-top-left-radius: 80px;
+                    border-bottom-left-radius: 80px;
+                    border-right: 0;
+                    -webkit-transform-origin: center right;
+                    transform-origin: center right;
+                    animation: loading-1 0.5s linear forwards;
+                }
+
+            .progress .progress-value {
+                width: 90%;
+                height: 90%;
+                border-radius: 50%;
+                background: #44484b;
+                font-size: 24px;
+                color: #fff;
+                line-height: 135px;
+                text-align: center;
+                position: absolute;
+                top: 5%;
+                left: 5%;
+            }
+
+            .progress.red .progress-bar {
+                border-color: #aa0000;
+            }
+
+            .progress.red .progress-left .progress-bar {
+                animation: loading-1 0.5s linear forwards 0.5s;
+            }
+
+            .progress.yellow .progress-bar {
+                border-color: #EEEE00;
+            }
+
+            .progress.yellow .progress-left .progress-bar {
+                animation: loading-2 0.5s linear forwards 0.5s;
+            }
+
+            .progress.green .progress-bar {
+                border-color: #00aa00;
+            }
+
+            .progress.green .progress-left .progress-bar {
+                animation: loading-3 0.5s linear forwards 0.5s;
+            }
+
+
+        @keyframes loading-1 {
+            0% {
+                -webkit-transform: rotate(0deg);
+                transform: rotate(0deg);
+            }
+
+            100% {
+                -webkit-transform: rotate(180deg);
+                transform: rotate(180deg);
+            }
+        }
+
+        @keyframes loading-2 {
+            0% {
+                -webkit-transform: rotate(0deg);
+                transform: rotate(0deg);
+            }
+
+            100% {
+                -webkit-transform: rotate(180deg);
+                transform: rotate(180deg);
+            }
+        }
+
+        @keyframes loading-3 {
+            0% {
+                -webkit-transform: rotate(0deg);
+                transform: rotate(0deg);
+            }
+
+            100% {
+                -webkit-transform: rotate(180deg);
+                transform: rotate(180deg);
+            }
+        }
+
+        @media only screen and (max-width: 990px) {
+            .progress {
+                margin-bottom: 20px;
+            }
+        }
+    </style>
+    <meta>
+    <style type="text/css">
+        P {
+            margin: 0;
+        }
+    </style>
+    <meta>
+    <style type="text/css">
+        P {
+            margin: 0;
+        }
+    </style>
+    <meta>
+    <style type="text/css">
+        P {
+            margin: 0;
+        }
+    </style>
+    <meta>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3 col-sm-6">
+                <div class="progress">
+                    <span class="progress-left">
+                        <span class="progress-bar"></span>
+                    </span>
+                    <span class="progress-right">
+                        <span class="progress-bar"></span>
+                    </span>
+                    <div class="progress-value">0%</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        // debugger;
+        if (margemprojeto !== undefined && margemcontrato !== undefined &&
+            margemprojeto !== null && margemcontrato !== null) {
+            $('.progress-value').first().text(margemprojeto + "%")
+            // debugger;
+            var posicaografico = 360 / margemprojeto;
+            if (margemprojeto > margemcontrato) {
+                $('.progress').addClass('green');
+            }
+            else {
+                if (margemprojeto < 0) {
+                    $('.progress').addClass('red');
+                }
+                else{
+                    $('.progress').addClass('yellow');
+                }
+            }
+        }
+        else {
+            $('.progress-value').first().text("- %");
+        }
+    </script>
+
+
+</body>
+</html>

@@ -1,0 +1,98 @@
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\bin\Debug\Smart.ExtendedPSA.WebResources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\bin\Debug\Smart.ExtendedPSA.WebResources.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\bin\Debug\es\Smart.ExtendedPSA.WebResources.resources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\bin\Debug\pt-BR\Smart.ExtendedPSA.WebResources.resources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.Resx.messages.resources
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.Resx.messages.es.resources
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.Resx.messages.pt-BR.resources
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.csproj.GenerateResource.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\es\Smart.ExtendedPSA.WebResources.resources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\pt-BR\Smart.ExtendedPSA.WebResources.resources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.csproj.AssemblyReference.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\bin\Debug\Smart.ExtendedPSA.WebResources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\bin\Debug\Smart.ExtendedPSA.WebResources.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\bin\Debug\es\Smart.ExtendedPSA.WebResources.resources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\bin\Debug\pt-BR\Smart.ExtendedPSA.WebResources.resources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.csproj.AssemblyReference.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.Resx.messages.resources
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.Resx.messages.es.resources
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.Resx.messages.pt-BR.resources
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.csproj.GenerateResource.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\es\Smart.ExtendedPSA.WebResources.resources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\pt-BR\Smart.ExtendedPSA.WebResources.resources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\bin\Debug\Smart.ExtendedPSA.WebResources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\bin\Debug\Smart.ExtendedPSA.WebResources.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\bin\Debug\es\Smart.ExtendedPSA.WebResources.resources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\bin\Debug\pt-BR\Smart.ExtendedPSA.WebResources.resources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.csproj.AssemblyReference.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.Resx.messages.resources
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.Resx.messages.es.resources
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.Resx.messages.pt-BR.resources
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.csproj.GenerateResource.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\es\Smart.ExtendedPSA.WebResources.resources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\pt-BR\Smart.ExtendedPSA.WebResources.resources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Paradigma\Paradigma\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\bin\Debug\Smart.ExtendedPSA.WebResources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\bin\Debug\Smart.ExtendedPSA.WebResources.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\bin\Debug\es\Smart.ExtendedPSA.WebResources.resources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\bin\Debug\pt-BR\Smart.ExtendedPSA.WebResources.resources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.csproj.AssemblyReference.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.Resx.messages.resources
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.Resx.messages.es.resources
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.Resx.messages.pt-BR.resources
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.csproj.GenerateResource.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\es\Smart.ExtendedPSA.WebResources.resources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\pt-BR\Smart.ExtendedPSA.WebResources.resources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SmartPO\Smart-PSA\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\bin\Debug\Smart.ExtendedPSA.WebResources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\bin\Debug\Smart.ExtendedPSA.WebResources.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\bin\Debug\es\Smart.ExtendedPSA.WebResources.resources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\bin\Debug\pt-BR\Smart.ExtendedPSA.WebResources.resources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.csproj.AssemblyReference.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.Resx.messages.resources
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.Resx.messages.es.resources
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.Resx.messages.pt-BR.resources
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.csproj.GenerateResource.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\es\Smart.ExtendedPSA.WebResources.resources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\pt-BR\Smart.ExtendedPSA.WebResources.resources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\SMART_TFS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\bin\Debug\Smart.ExtendedPSA.WebResources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\bin\Debug\Smart.ExtendedPSA.WebResources.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\bin\Debug\es\Smart.ExtendedPSA.WebResources.resources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\bin\Debug\pt-BR\Smart.ExtendedPSA.WebResources.resources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.csproj.AssemblyReference.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.Resx.messages.resources
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.Resx.messages.es.resources
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.Resx.messages.pt-BR.resources
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.csproj.GenerateResource.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\es\Smart.ExtendedPSA.WebResources.resources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\pt-BR\Smart.ExtendedPSA.WebResources.resources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO(tfs)\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\bin\Debug\Smart.ExtendedPSA.WebResources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\bin\Debug\Smart.ExtendedPSA.WebResources.pdb
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\bin\Debug\es\Smart.ExtendedPSA.WebResources.resources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\bin\Debug\pt-BR\Smart.ExtendedPSA.WebResources.resources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.csproj.AssemblyReference.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.Resx.messages.resources
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.Resx.messages.es.resources
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.Resx.messages.pt-BR.resources
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.csproj.GenerateResource.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\es\Smart.ExtendedPSA.WebResources.resources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\pt-BR\Smart.ExtendedPSA.WebResources.resources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.dll
+C:\Users\Gabriel Silva\Documents\PROJETOS\Smart PO\Smart.ExtendedPSA\Smart.ExtendedPSA.WebResources\obj\Debug\Smart.ExtendedPSA.WebResources.pdb

@@ -1,0 +1,9 @@
+<entities >
+  <entity name="smt_testparameters" displayname="Smart Test Parameters" etc="10245" primaryidfield="smt_testparametersid" primarynamefield="smt_name" disableplugins="false">
+    <fields>
+      <field displayname="Name" name="smt_name" type="string" customfield="true" />
+      <field displayname="Smart Test Parameters" name="smt_testparametersid" type="guid" primaryKey="true" />
+      <field displayname="TestMethod" name="smt_testmethod" type="string" customfield="true" />
+    </fields>
+  </entity>
+</entities>
