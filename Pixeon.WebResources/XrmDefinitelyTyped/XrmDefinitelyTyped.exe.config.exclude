@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <appSettings>
+    <add key="url" value="https://vinnytrial11.crm.dynamics.com/XRMServices/2011/Organization.svc" />
+    <add key="username" value="admin@vinnytrial11.onmicrosoft.com" />
+    <add key="password" value="P@ssw0rd" />
+    <add key="out" value="../typings/XRM" />
+    <add key="solutions" value="" />
+    <add key="entities" value="account" />
+    <add key="web" value="" />
+    <add key="jsLib" value="../src/lib" /> 
+  </appSettings>
+</configuration>

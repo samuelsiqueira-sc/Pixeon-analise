@@ -1,0 +1,232 @@
+﻿<html>
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+    <!-- Obter id do registro -->
+    <script>
+        //function getQueryVariable(variable)
+        //{
+        //       var query = window.location.search.substring(1);
+        //       var vars = query.split("&");
+        //       for (var i=0;i<vars.length;i++) {
+        //               var pair = vars[i].split("=");
+        //               if(pair[0] == variable){return pair[1];}
+        //       }
+        //       return(false);
+        //}
+
+        //var recordId = getQueryVariable("id");
+
+        function getFields() {
+            /* Utilizando Xrm.Page, pois a microsoft ainda não disponibilizou um método alternativo
+             * para acessar o contexto do formulário a partir de um IFrame */
+            /*if (parent.Xrm.Page) {
+                var formContext = parent.Xrm.Page;
+                //Verifica se a Issue já foi salva, senão, salva e impede o refresh.
+                if (formContext.data.entity.getIsDirty()) {
+                    formContext.data.save().then(function () {
+                        formContext.data.refresh(false);
+                    });
+                }
+            }
+            */
+            var issue = {
+                id: undefined, title: undefined, project: undefined
+            }
+
+            if (parent.Xrm.Page) {
+                var formContext = parent.Xrm.Page;
+                //var formContext = window.parent.Xrm.Page;
+                issue.id = formContext.data.entity.getId().replace("{", "").replace("}", "");
+
+                if (formContext.getAttribute("smt_st_title").getValue()) {
+                    issue.title = formContext.getAttribute("smt_st_title").getValue();
+                }
+            }
+            return issue;
+        }
+    </script>
+
+    <!--Chamadas API-->
+    <script>
+        function createJIRAissue(D365issue) {
+            debugger;
+
+			var organizationSettings = parent.Xrm.Utility.getGlobalContext().organizationSettings;
+			var url = null;
+            var orgId = organizationSettings.organizationId;
+            // url do flow de dev
+			if (orgId === "880d73f4-c43a-4bdd-8f79-c414ad165e96") {
+				url = "https://prod-22.brazilsouth.logic.azure.com:443/workflows/9bec0626b67a485291ab9b1ac3355453/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=sw2yjEZWQ1GR9GWvUB1ui_XgRQnftSP_eCxgLQaLsU4";
+			}
+            else if (orgId === "8bd44f1b-218e-49f4-a4a6-1975b0dd4c7e") {
+                // url do flow de produção
+				url = "https://prod-16.brazilsouth.logic.azure.com:443/workflows/c68517cb7730444598b640aedbd342ca/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=h8kadJ6r5XtmFg-y8NaLH1-DDV8HvS68b4TfL9dfk0A";
+            }
+
+            var settings = {
+                "url": url,
+                "method": "POST",
+                "timeout": 0,
+                "headers": {
+                    "Content-Type": "application/json"
+                },
+                "data": JSON.stringify({ "project": "SSD", "issueid": D365issue.id }),
+            };
+
+            $.ajax(settings).done(function (data) {
+                $('#status').empty();
+                $('#status').append("<div class='alert alert-success'><strong>Issue Importada com sucesso. </strong> Redirecionando...</div>");
+                parent.location.reload();
+            }).fail(function (jqXHR, textStatus) {
+                $('#status').empty();
+                $('#status').append("<div class='alert alert-danger'><strong>Falha na integração com o Jira: </strong>" + jqXHR.responseText + "</div>");
+                $('.btn').prop("disabled", false);
+                $('.btn').removeClass("disabled");
+                $('.form-control').prop("disabled", false);
+                $('.form-control').removeClass("disabled");
+            });
+        }
+
+
+        function integrateJIRAissue(JIRAkey, D365issue) {
+            debugger;
+
+			var organizationSettings = parent.Xrm.Utility.getGlobalContext().organizationSettings;
+			var url = null;
+            var orgId = organizationSettings.organizationId;
+            // Id de dev
+			if (orgId === "880d73f4-c43a-4bdd-8f79-c414ad165e96") {
+				url = "https://prod-14.brazilsouth.logic.azure.com:443/workflows/05449fa75c324757892a2439d19781ca/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=AmDAnmlR3LOTUdtvhcopD0IuQkJtV5pYJeI5bitkp5U";
+			}
+            else if (orgId === "8bd44f1b-218e-49f4-a4a6-1975b0dd4c7e") {
+                // id de produção
+				url = "https://prod-10.brazilsouth.logic.azure.com:443/workflows/31405d89a6654032aa0fc7a2e3e877f4/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=R32qWPy585YkpY8JTEYog5of-R9jrgud0VnusPRuSr0";
+			}
+            var settings = {
+                "url": url,
+                "method": "POST",
+                "timeout": 0,
+                "headers": {
+                    "Content-Type": "application/json"
+                },
+                "data": JSON.stringify({ "key": JIRAkey, "issueid": D365issue.id }),
+            };
+
+            $.ajax(settings).done(function (data) {
+                $('#status').empty();
+                $('#status').append("<div class='alert alert-success'><strong>Issue Importada com sucesso. </strong> Redirecionando...</div>");
+                parent.location.reload();
+            }).fail(function (jqXHR, textStatus) {
+                $('#status').empty();
+                $('#status').append("<div class='alert alert-danger'><strong>Falha na integração com o Jira: </strong>" + jqXHR.responseText + "</div>");
+                $('.btn').prop("disabled", false);
+                $('.btn').removeClass("disabled");
+                $('.form-control').prop("disabled", false);
+                $('.form-control').removeClass("disabled");
+            });
+        }
+    </script>
+
+
+
+    <!-- Esconder botão e mostrar loader-->
+    <script>
+        $(document).ready(function () {
+            $('#btnCreateIssue').click(function () {
+                debugger;
+                $('.btn').prop("disabled", true);
+                $('.btn').addClass("disabled");
+                $('.form-control').prop("disabled", true);
+                $('.form-control').addClass("disabled");
+                $('#status').empty();
+                $('#status').append("<p id='wait'>Aguarde<br><img src='smt_gif_ajaxloader'></p>")
+                var D365issue = getFields();
+                createJIRAissue(D365issue);
+            });
+
+            $('#btnIntegrateIssue').click(function () {
+                debugger;
+                $('.btn').prop("disabled", true);
+                $('.btn').addClass("disabled");
+                $('.form-control').prop("disabled", true);
+                $('.form-control').addClass("disabled");
+                $('#status').empty();
+                $('#status').append("<p id='wait'>Aguarde<br><img src='smt_gif_ajaxloader'></p>")
+                var D365issue = getFields();
+                var JIRAKey = $('#issuekey').val();
+                integrateJIRAissue(JIRAKey, D365issue);
+            });
+        });
+    </script>
+
+
+    <title>Integração JIRA</title>
+    <meta>
+</head>
+<body style="overflow-wrap: break-word;margin: 40px">
+    <div class="row panel-group">
+        <div class="col-sm-12 text-center">
+            <img src="https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=958" style="width: auto; height: 20px;" />
+            <img src="https://th.bing.com/th?id=OIP.NwjCZzmX04Zxi_736ZzbvwHaEL&pid=Api&rs=1" style="width: auto; height: 60px;" />
+            <p>Integração de Issues</p>
+        </div>
+    </div>
+
+
+    <div class="container">
+
+
+
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="jumbotron text-center">
+                    <h5>Criar Issue</h5>
+                    <p>
+                        Será gerada uma nova issue no JIRA com base nas informações preenchidas no Dynamics 365.
+                    </p>
+                    <div class="text-center"><button type="button" id="btnCreateIssue" class="btn btn-info p-4">Criar Issue</button></div>
+                </div>
+
+            </div>
+            <div class="col-sm-6">
+                <div class="jumbotron text-center">
+                    <h5>Integrar Issue Existente</h5>
+                    <p>
+                        As informações de uma issue existente no JIRA serão apresentadas no painel desta issue.
+                    </p>
+                    <div>
+                        <div>
+                            <input type="text" class="form-control mb-3 p-4 text-center" id="issuekey" placeholder="Código Issue JIRA">
+                        </div>
+                        <div>
+                            <div class="text-center"><button type="button" id="btnIntegrateIssue" class="btn btn-info p-4">Integrar Issue</button></div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="row">
+
+            <div class="col-md-12 text-center" id="status"></div>
+
+        </div>
+
+    </div>
+</body>
+</html>

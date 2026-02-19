@@ -1,0 +1,305 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="CIHMTTD01" xml:space="preserve">
+    <value>Quantidade mínima de dias não atingida.</value>
+  </data>
+  <data name="CIHMTTD02" xml:space="preserve">
+    <value>A data inicial precisa estar preenchida.</value>
+  </data>
+  <data name="CIHMTTD03" xml:space="preserve">
+    <value>A data de término precisa estar preenchida.</value>
+  </data>
+  <data name="HSTCRER" xml:space="preserve">
+    <value>Erro ao criar Histórico de Status</value>
+  </data>
+  <data name="PGCPF01" xml:space="preserve">
+    <value>A Tarefa selecionada não pode ser um MARCO !
+Um marco não pode estar na cadeia de outro marco.</value>
+  </data>
+  <data name="PGCPF02" xml:space="preserve">
+    <value>Não é possível criar a tarefa, verifique o Status do Projeto</value>
+  </data>
+  <data name="PGCPF03" xml:space="preserve">
+    <value>Não é possível alterar um marco reconhecido</value>
+  </data>
+  <data name="PGCPF04" xml:space="preserve">
+    <value>Somente as tarefas marcadas como MARCO DE ENTREGA podem ser enviados para aprovação do cliente.</value>
+  </data>
+  <data name="PGCPF05" xml:space="preserve">
+    <value>Somente marcos Concluídos ou Reprovados podem ser enviados para aprovação do cliente.</value>
+  </data>
+  <data name="PGCPF06" xml:space="preserve">
+    <value>O(s) campo(s)</value>
+  </data>
+  <data name="PGCPF06_2" xml:space="preserve">
+    <value>não podem ser alterados no status atual do projeto</value>
+  </data>
+  <data name="PGCPF07" xml:space="preserve">
+    <value>Somente usuários com o perfil</value>
+  </data>
+  <data name="PGCPF07_2" xml:space="preserve">
+    <value>podem enviar marcos para aprovação</value>
+  </data>
+  <data name="PGCPF07_3" xml:space="preserve">
+    <value>podem pré-aprovar marcos</value>
+  </data>
+  <data name="PGCPF07_4" xml:space="preserve">
+    <value>podem aprovar marcos</value>
+  </data>
+  <data name="PGCPF07_5" xml:space="preserve">
+    <value>ou</value>
+  </data>
+  <data name="PGCPF08" xml:space="preserve">
+    <value>Não é possível encontrar o status do marco</value>
+  </data>
+  <data name="PGCPF09" xml:space="preserve">
+    <value>A Tarefa selecionada não pode ser um MARCO !
+Um marco não pode estar na cadeia de outro marco.</value>
+  </data>
+  <data name="PGCPF10" xml:space="preserve">
+    <value>Não é possível efetuar essa alteração, o custo da realização da tarefa é superior ao custo planejado</value>
+  </data>
+  <data name="PRJBLCR" xml:space="preserve">
+    <value>O processo de criação de BaseLine está em Andamento</value>
+  </data>
+  <data name="PRJBLER" xml:space="preserve">
+    <value>Ocorreu um erro na criação das tarefas da baseline!</value>
+  </data>
+  <data name="QUTCRER" xml:space="preserve">
+    <value>Não é possível criar uma linha de cotação de um contrato do tipo aditivo sem um Contrato Primário</value>
+  </data>
+  <data name="QUTUPERR" xml:space="preserve">
+    <value>Erro ao atualizar linha da cotação</value>
+  </data>
+  <data name="QUTUPTER" xml:space="preserve">
+    <value>Não foi possível atualizar o registro.</value>
+  </data>
+  <data name="Hi" xml:space="preserve">
+    <value>Oi</value>
+  </data>
+  <data name="TRVALTTASK1" xml:space="preserve">
+    <value>Não é permitido realizar alteração no campo 'Tipo do WorkItem' para tarefas do tipo 'Interation'.</value>
+  </data>
+  <data name="TRVALTTASK2" xml:space="preserve">
+    <value>Não é permitido realizar alteração no campo 'Tarefa Principal' para tarefas do tipo 'Interation'.</value>
+  </data>
+  <data name="TRVALTTASK3" xml:space="preserve">
+    <value>Não é permitido realizar alteração no Nome da Tarefa para tarefas do tipo 'Interation'.</value>
+  </data>
+  <data name="NoParameter_01" xml:space="preserve">
+    <value>Não foi possível localizar o registro de Parametro, para Atualizar os Projetos trabalhados do Recurso</value>
+  </data>
+  <data name="ExistingHour" xml:space="preserve">
+    <value>Já existe um tipo de hora deste tipo.</value>
+  </data>
+  <data name="USRPP01" xml:space="preserve">
+    <value>Erro:  Infelizmente não conseguimos enviar sua solicitação de férias, pois você não tem dias adquiridos suficientes para o que está pedindo. Por favor, considere solicitar uma antecipação à parte.</value>
+  </data>
+  <data name="USRPP02" xml:space="preserve">
+    <value>Erro: Não conseguimos aprovar essas férias, pois o recurso solicitante já tem essa quantidade de dias disponíveis, usando a antecipação de forma incorreta. Por favor, peça ao mesmo que opte por férias que não sejam de antecipação.</value>
+  </data>
+  <data name="ExistingBankHour" xml:space="preserve">
+    <value>Ja existe um registro de tipo Banco de Horas</value>
+  </data>
+  <data name="USRPP03" xml:space="preserve">
+    <value>Erro: Não conseguimos enviar a sua solicitação de férias, pois você ainda não tem saldo suficiente em aquisição. Aguarde mais tempo para enviar, ou considere diminuir a quantidade de dias solicitados.</value>
+  </data>
+  <data name="NoTargPlugin" xml:space="preserve">
+    <value>Input Parameter não contém um Target</value>
+  </data>
+  <data name="ParameterAlreadyExist" xml:space="preserve">
+    <value>Já Existe um parâmetro com esse nome dentro dessa unidade organizacional.</value>
+  </data>
+  <data name="PCSPP01" xml:space="preserve">
+    <value>Erro: O campo recurso precisa ser preenchido.</value>
+  </data>
+  <data name="PCSPP02" xml:space="preserve">
+    <value>Erro: O campo data de início precisa ser preenchido.</value>
+  </data>
+  <data name="TIMEENTRY1" xml:space="preserve">
+    <value>A tarefa do projeto relacionada já alcançou 100% de progresso físico. Contate o seu Gerente!</value>
+  </data>
+  <data name="MAXHOUR01" xml:space="preserve">
+    <value>Só é possível selecionar o tipo de horas como Normal em dias que não são considerados feriados. Por favor, altere o tipo de horas para Banco de Horas - Feriados ou Horas Extras - Feriados.</value>
+  </data>
+  <data name="MAXHOUR02" xml:space="preserve">
+    <value>Não é possível criar a entrada de horas do tipo Normal, pois você já atingiu o horário máximo trabalhados por dia. Por favor, criar o restante dos horários como Banco de Horas ou Horas Extras.</value>
+  </data>
+  <data name="MAXHOUR03" xml:space="preserve">
+    <value>Só é possível selecionar o tipo de horas como Normal em dias que não são considerados feriados. Por favor, altere o tipo de horas para 'Banco de Horas - Feriados' ou 'Horas Extras - Feriados'.</value>
+  </data>
+  <data name="MAXHOUR04" xml:space="preserve">
+    <value>Só é possível selecionar o tipo de horas como Normal nos dias de trabalho estipulados no seu Contrato. Por favor, altere o tipo de horas para Banco de Horas ou Horas Extras.</value>
+  </data>
+  <data name="MAXHOUR05" xml:space="preserve">
+    <value>Só é possível selecionar o tipo de horas como Banco de Horas - Dias Úteis em dias que não são considerados feriados. Por favor, altere o tipo de horas para 'Banco de Horas - Feriados' ou 'Horas Extras - Feriados'.</value>
+  </data>
+  <data name="MAXHOUR06" xml:space="preserve">
+    <value>Só é possível selecionar o tipo de horas como Banco de Horas - Dias Úteis nos dias de trabalho estipulados no seu contrato. Por favor, altere o tipo de horas.</value>
+  </data>
+  <data name="MAXHOUR07" xml:space="preserve">
+    <value>Só é possível selecionar o tipo de horas como Banco de Horas - Domingo em dias que não são considerados feriados. Por favor, altere o tipo de horas para 'Banco de Horas - Feriados' ou 'Horas Extras - Feriados'.</value>
+  </data>
+  <data name="MAXHOUR08" xml:space="preserve">
+    <value>Só é possível selecionar tipo de horas como Banco de Horas - Domingo em domingos. Por favor, alterar o tipo de horas.</value>
+  </data>
+  <data name="MAXHOUR09" xml:space="preserve">
+    <value>Só é possível selecionar tipo de horas como Banco de Horas - Feriados em dias considerados feriados. Por favor, alterar o tipo de horas.</value>
+  </data>
+  <data name="MAXHOUR10" xml:space="preserve">
+    <value>Só é possível selecionar o tipo de horas como Horas Extras - Dias Úteis em dias que não são considerados feriados. Por favor, altere o tipo de horas para 'Banco de Horas - Feriados' ou 'Horas Extras - Feriados'.</value>
+  </data>
+  <data name="MAXHOUR11" xml:space="preserve">
+    <value>Não é possível criar a entrada de horas do tipo Horas Extras - Dias Úteis, pois as horas Normais do expediênte ainda não foram alcançadas.</value>
+  </data>
+  <data name="MAXHOUR12" xml:space="preserve">
+    <value>Só é possível selecionar o tipo de horas como Horas Extras - Dias Úteis nos dias de trabalho estipulados no seu contrato. Por favor, altere o tipo de horas.</value>
+  </data>
+  <data name="MAXHOUR13" xml:space="preserve">
+    <value>Só é possível selecionar o tipo de horas como Horas Extras - Feriados em dias considerados feriados. Por favor, altere o tipo de horas.</value>
+  </data>
+  <data name="MAXHOUR14" xml:space="preserve">
+    <value>Só é possível selecionar o tipo de horas como Horas Extras - Domingos em dias que não são considerados feriados. Por favor, altere o tipo de horas para 'Banco de Horas - Feriados' ou 'Horas Extras - Feriados'.</value>
+  </data>
+  <data name="MAXHOUR15" xml:space="preserve">
+    <value>Só é possível selecionar o tipo de horas como Horas Extras - Domingos em domingos. Por favor, altere o tipo de horas.</value>
+  </data>
+  <data name="MAXHOUR16" xml:space="preserve">
+    <value>Só é possível selecionar o tipo de horas como Horas Extras - Sábados em dias que não são considerados feriados. Por favor, altere o tipo de horas para 'Banco de Horas - Feriados' ou 'Horas Extras - Feriados'.</value>
+  </data>
+  <data name="MAXHOUR17" xml:space="preserve">
+    <value>Só é possível selecionar o tipo de horas como Horas Extras - Sábados em sabádos. Por favor, altere o tipo de horas.</value>
+  </data>
+  <data name="USRPP04" xml:space="preserve">
+    <value>Erro: Não foi possível aprovar essa solicitação de férias, pois o recurso em questão não tem saldo suficiente para a quantidade de dias solicitados.</value>
+  </data>
+  <data name="MAXHOUR18" xml:space="preserve">
+    <value>Só é possível selecionar o tipo de horas como Banco de Horas - Dias Úteis após já ter lançado o máximo de horas normais para esse dia. Por favor, altere o tipo de horas.</value>
+  </data>
+  <data name="VALDESC01" xml:space="preserve">
+    <value>Erro: Não foi possível enviar, pois o campo descrição é obrigatório. Por favor, preencha a descrição para enviar a sua entrada de horas.</value>
+  </data>
+  <data name="UNPCRR" xml:space="preserve">
+    <value>O usuário não possui uma associação de recurso.</value>
+  </data>
+  <data name="ENCS" xml:space="preserve">
+    <value>E-mail não cadastrado no sistema.</value>
+  </data>
+</root>
