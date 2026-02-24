@@ -854,23 +854,21 @@ Este plugin processa registros de integração para atualizar campos de múltipl
 
 ---
 
-## Observações Técnicas Gerais
+## Plugins a serem descontinuados 
 
-### Padrões de Implementação
-1. Todos os plugins herdam da classe `PluginBase`.
-2. O contexto de execução é acessado através do parâmetro `LocalPluginContext`.
-3. Classes de negócio (Business) são utilizadas para encapsular a lógica complexa.
-4. Validações de negócio utilizam `InvalidPluginExecutionException` para interromper operações inválidas.
+Basedo na nova funcionalidade de reconhecimento de receita devem ser decontinuados os seguintes plugins:
 
-### Serviços Utilizados
-- `OrganizationService`: Serviço padrão com contexto do usuário.
-- `OrganizationServiceAdmin`: Serviço com privilégios administrativos.
-- `TracingService`: Serviço para logging e debug.
+PreCreateSync_msdyn_timeentry
+PostCreateAsync_smt_task_history
 
-### Imagens de Plugin (Pre/Post Image)
-- **PreImage**: Estado do registro antes da operação.
-- **PostImage**: Estado do registro após a operação (apenas em Post-Operation).
-- **Target**: Campos que estão sendo modificados na operação atual.
+## Plugins que devem permanecer desativados após o deploy do Smart PO
+
+Smart.ExtendedPSA.Extends.Plugins.PostCreateSync_msdyn_projecttask: Create of msdyn_projecttask
+Smart.ExtendedPSA.Extends.Plugins.PostCreateAsync_smt_monthly_revenue_recognition
+Smart.ExtendedPSA.Extends.Plugins.PostUpdateSync_msdyn_projecttask
+Smart.ExtendedPSA.Extends.Plugins.Projeto.PostUpdateSync
+
+
 
 ---
 
